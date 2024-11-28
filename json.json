@@ -1,0 +1,19 @@
+{
+  "levels": [
+    {
+      "levelName": "Level 1",
+      "url": "https://example.com/level1",
+      "imageUrl": "https://example.com/image1.png"
+    },
+    {
+      "levelName": "Level 2",
+      "url": "https://example.com/level2",
+      "imageUrl": "https://example.com/image2.png"
+    },
+    {
+      "levelName": "Level 3",
+      "url": "https://example.com/level3",
+      "imageUrl": "https://example.com/image3.png"
+    }
+  ]
+}
