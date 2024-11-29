@@ -1,29 +1,130 @@
 {
   "levels": [
     {
-      "levelName": "Level 1",
+      "levelName": "sprunki-phase-15",
       "url": "https://wordle2.io/sprunki-phase-15.embed",
       "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-phase-15-m190x110.png"
     },
     {
-      "levelName": "Level 2",
+      "levelName": "sprunki-phase-14",
       "url": "https://wordle2.io/sprunki-phase-14.embed",
       "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-phase-14-m190x110.png"
     },
     {
-      "levelName": "Level 3",
+      "levelName": "sprunki-phase-13",
       "url": "https://wordle2.io/sprunki-phase-13.embed",
       "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-phase-13-m190x110.png"
     },
     {
-      "levelName": "Level 4",
+      "levelName": "sprunki-phase-12",
       "url": "https://wordle2.io/sprunki-phase-12.embed",
       "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-phase-12-m190x110.png"
     },
     {
-      "levelName": "Level 4",
+      "levelName": "sprunki-phase-11",
       "url": "https://wordle2.io/sprunki-phase-11.embed",
       "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-phase-11-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-sus ",
+      "url": "https://wordle2.io/sprunki-sus.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-sus-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-love ",
+      "url": "https://wordle2.io/sprunki-love.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-love-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-kiss-edition ",
+      "url": "https://wordle2.io/sprunki-kiss-edition.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-kiss-edition-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-cancelled-update ",
+      "url": "https://wordle2.io/sprunki-cancelled-update.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-cancelled-update-m190x110.png"
+    },
+    {
+      "levelName": "horror-spranky-beats",
+      "url": "https://wordle2.io/horror-spranky-beats.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/horror-spranky-beats-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-sinner-edition",
+      "url": "https://wordle2.io/sprunki-sinner-edition.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-sinner-edition-m190x110.png"
+    },
+    {
+      "levelName": "sprejecz",
+      "url": "https://wordle2.io/sprejecz.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprejecz-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-greencore",
+      "url": "https://wordle2.io/sprunki-greencore.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-greencore-m190x110.png"
+    },
+    {
+      "levelName": "kino-sprunked",
+      "url": "https://wordle2.io/kino-sprunked.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/kino-sprunked-m190x110.png"
+    },
+    {
+      "levelName": "fiddlebops",
+      "url": "https://wordle2.io/fiddlebops.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/fiddlebops-m190x110.png"
+    },
+    {
+      "levelName": "sprunked-20",
+      "url": "https://wordle2.io/sprunked-20.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunked-20-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-retake",
+      "url": "https://wordle2.io/sprunki-retake.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-retake-m190x110.png"
+    },
+    {
+      "levelName": "parasprunki-90",
+      "url": "https://wordle2.io/parasprunki-90.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/parasprunki-90-m190x110.png"
+    },
+    {
+      "levelName": "sprunked-but-more-accurate",
+      "url": "https://wordle2.io/sprunked-but-more-accurate.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunked-but-more-accurate-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-lights-out",
+      "url": "https://wordle2.io/sprunki-lights-out.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-lights-out-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-modded-version",
+      "url": "https://wordle2.io/sprunki-modded-version.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-modded-version-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-mustard",
+      "url": "https://wordle2.io/sprunki-mustard.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-mustard-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-mixer",
+      "url": "https://wordle2.io/sprunki-mixer.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-mixer-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-phase-10",
+      "url": "https://wordle2.io/sprunki-phase-10.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-phase-10-m190x110.png"
+    },
+    {
+      "levelName": "sprunki-babies",
+      "url": "https://wordle2.io/sprunki-babies.embed",
+      "imageUrl": "https://wordle2.io/upload/cache/upload/imgs/sprunki-babies-m190x110.png"
     }
+    
   ]
 }
